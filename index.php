@@ -8,7 +8,7 @@
 <head>
 <meta charset="utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Animated </title>
+<title> Sentra PHP </title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
@@ -140,6 +140,7 @@ background: linear-gradient(#400080, transparent), linear-gradient(200deg, #d047
 </style>
 </head>
 <body>
+<center><h1>John Timoteo Torres</h1></center>
 <ul>
 <li><a href="https://www.facebook.com/profile.php?id=100012512077239"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
 <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
