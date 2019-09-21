@@ -144,6 +144,10 @@
         ul li:hover:nth-child(4) a:after {
             background: #0d82bf;
         }
+        
+        .title {
+            margin-top: "30px"
+        }
 
         ul li:hover:nth-child(5) a {
             background: linear-gradient(#400080, transparent), linear-gradient(200deg, #d047d1, #ff0000, #ffff00);
@@ -160,7 +164,7 @@
 </head>
 
 <body>
-    <div class="mt-20px">
+    <div class="title">
         <center>
             <h1>John Timoteo Torres</h1>
         </center>
