@@ -20,7 +20,7 @@
 <body>
     <div class="title">
         <center>
-            <h1>Bienvenido <span>&#128513;</span> </h1>
+            <h1><strong>Bienvenido</strong> <span>&#128513;</span> </h1>
         </center>
     </div>
     <ul>
