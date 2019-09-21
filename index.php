@@ -140,8 +140,8 @@ background: linear-gradient(#400080, transparent), linear-gradient(200deg, #d047
 </style>
 </head>
 <body>
-<center><h1>John Timoteo Torres</h1></center>
 <ul>
+<center><h1>John Timoteo Torres</h1></center>
 <li><a href="https://www.facebook.com/profile.php?id=100012512077239"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
 <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
 <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
