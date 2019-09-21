@@ -25,7 +25,7 @@
     </div>
     <ul>
         <li><a href="https://www.facebook.com/john.fabiantorres.5" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-        <li><a href="https://twitter.com/TimoteoFabian"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+        <li><a href="https://twitter.com/TimoteoFabian" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
         <li><a href="https://mail.google.com/mail/u/0/#search/john.timoteo%40tecsup.edu.pe" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
         <li><a href="https://www.linkedin.com/in/john-fabian-timoteo-torres-45608316b/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
         <li><a href="https://www.instagram.com/johnfabiantorres/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
